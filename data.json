@@ -55,8 +55,8 @@
   },
   {
     "key": 7,
-    "title": "https://i.ibb.co/KLVLDWy/img7.jpg",
-    "img": "./dataimage/img7.jpg",
+    "title": "LACTATE DEHYDROGENASE(LDH)",
+    "img": "https://i.ibb.co/KLVLDWy/img7.jpg",
     "description": "LDH blood test is mainly performed to determine the presence of tissue damage conditions like injury or inflammation in the liver, muscle, heart, lungs or kidneys.",
     "price": 2500,
     "totalTest": 1,
